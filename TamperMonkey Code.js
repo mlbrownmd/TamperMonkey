@@ -18,7 +18,7 @@
     const searchInterval = 7 * 60 * 1000; // 7 minutes
     const importInterval = 8 * 60 * 1000; // 8 minutes
     const responseTimeout = 30 * 1000; // 30 seconds
-
+//test
     // Function to send a fetch request
     function sendKeepAliveRequest() {
         fetch(window.location.href).then(response => {
